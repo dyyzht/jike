@@ -1,0 +1,11 @@
+img {
+    display: block;
+    width: 100%;
+}
+
+.copyright {
+    padding: 20px;
+    text-align: center;
+    color: #c6c6c6;
+    font-size: 12px;
+}
