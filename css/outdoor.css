@@ -9,3 +9,9 @@ img {
     color: #c6c6c6;
     font-size: 12px;
 }
+.copyright p{
+    line-height: 20px;
+}
+.copyright p:last-child{
+    font-size: 10px;
+}
